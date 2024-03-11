@@ -1,0 +1,27 @@
+.container{
+    display: flex;
+    float: left;
+    width: 100%;
+    height: 400px;
+    text-align: center;
+}
+.con{
+    width: 33%;
+    height: 250px;
+    padding: 30px;
+}
+.tai{
+    width: 33%;
+    height: 250px;
+    padding: 30px;
+    
+}
+.ner{
+    width: 33%;
+    height: 250px;
+    padding: 30px;
+}
+img{
+    width: 80%;
+    height: 200px;
+}
